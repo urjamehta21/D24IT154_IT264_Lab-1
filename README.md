@@ -2,11 +2,12 @@
 A JavaScript project to dynamically manage a movie collection. This lab demonstrates key JavaScript concepts, including variables, functions, arrays, objects, and ES6+ features.
 
 Features
-Add movies to the collection.
-Filter movies based on genre or release year.
-Identify the highest-rated movie.
-Display a list of all movie titles.
-Show detailed logs of movies using template literals.
+- Add new movies to the collection
+- Filter movies by genre or release year
+- Find the highest-rated movie
+- List all movie titles
+- Display detailed movie logs with template literals
+
 
 How to Run
 Clone the repository to your machine.
