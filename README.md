@@ -10,9 +10,9 @@ Features
 
 
 How to Run
-Clone the repository to your machine.
-Execute the script using Node.js.
-View the output in the console.
+1. Clone the repository to your machine.
+2. Execute the script using Node.js.
+3. View the output in the console.
 
 Key Concepts
 JavaScript Basics: Variables, Functions, Arrays, and Objects.
